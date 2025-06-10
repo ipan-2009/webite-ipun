@@ -43,6 +43,5 @@
             <img src="poto.jpg" alt="profile-irfan">
         </div>
         </div>
-    </div>
 </body>
 </html>
